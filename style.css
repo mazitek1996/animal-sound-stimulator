@@ -1,0 +1,28 @@
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.ani-sounds{
+    text-align: center;
+    padding-top: 10%;
+}
+
+
+button{
+    height: 200px;
+    width: 200px;
+}
+
+/* .alligator{
+    background: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+    color: white;
+}
+
+.bee{
+    background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+    color: white;
+
+} */
